@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diana Bryan | Portfolio</title>
+	<link href="https://fonts.googleapis.com/css?family=Caveat&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="../lesson08/style.css">
+</head>
+<body>
+    <header>
+		<nav class="display"><ul><li>Home</li>
+	<li> Projects
+	<ul>
+		<li>Web</li>
+		<li>Logos</li>
+		<li>Illustrations</li>
+		<li>Processes</li>
+		<li>Compaigns</li>
+		</ul>
+		</li>
+		<li><a href="#about">About Me</a>
+		<li><a href="#contact">Contact Me</a>
+			<ul>
+		<li>Phone</li>
+			<li>Email</li>
+			<li>Twitter</li>
+			</ul>
+		</li>
+	</ul></nav>
+        <img class="profile-img col-img" src="../images/Bryan-PJ4.jpg" alt="A picture for NC Conservation Society">
+		  <div class:"col-text">
+        <h1 id="Diana">Diana Bryan Designs</h1>
+        <h2>Websites, Illustrations and Logos</h2>
+    </header>
+    
+    <main> 
+        <section id="thinkbig" class="thinkbig">
+			<div class="content-wrap"> 
+            <h2>The Think Big Conference</h2>
+				<div class="col-img">
+            <img class="thinkbigimage" src="../images/Bryanlogobig.png" alt="logo for the Think Big conference">
+		    <img class="thinkbigimage" src="../images/thinkbigmug.jpg" alt="Mugs with the Think Big logo">
+		    <img class="thinkbigimage" src="../images/bigfoot.jpg" alt="redacted picture of Bigfoot"></div>
+
+       <div class="col-text thinkbig">
+            <p>Think Big Conspriacy Converence that is meeting in an undisclosed location. This logo was based off of the famous look of the Illuminati as well as using Bigfoot's foot as a pupil. The entire design is meant to give a feel for the mood for conference as well as to give a new and fun spin on these events. </p>  
+		   <p>The Mugs used work to show off the logo as well as the tagline: Step into the Unknown. The entire work is there to give a feel for the things that will be being sold at the conferance as well as to encourage interest in the event from anyone who might see the mugs online.</p>
+		   <p>The photograph is part of a series of redacted pictures that can be sold separately, can be placed on shirts or totebags or could be on mugs like the one belonging to the Think Big Conferance's logo. These are there, like the mugs, to create interest and just to be fun things for the antendees to buy.</p>
+			
+			</div>
+				<div class="col-text">
+        </section>
+        <section id="websites" class="websites">
+			<div class="content-wrap"> 
+            <h2>Web Design</h2>
+         <div class="col-img">
+          <img class="websiteimage" src="../images/2019-10-10 (1).png" alt="Mythic Website">
+		    <img class="websiteimage" src="../images/2019-10-10 (2).png" alt="Announcement Website">
+		    <img class="websiteimage" src="../images/2019-10-10.png" alt="PeakTraining's website">
+				</div>
+				 <div class="col-text">
+            <p>These Websites all exemplify my general style of design. They are made to be be clean, accessable, and easy to read and understand. At the same time, each exists to show the general mood and feel of the different topic.</p> 
+		    
+			<p> The first is a simple one that would be able to discuss different subjects. While this one discusses the difference between folklore and mythology, there are several different kinds of sites that this can be used to show. </p>
+				<p>The second shows an announcement with a background image particular for a website. This kind of clean, easy design is there for clear understanding that can be used for online newsletters and announcements.</p>
+				<p>The final site is the finished product of a potential website for a company called Peak Training. Based in Cary, they worked to help employees better work. The site was meant to reflect their work ethic and the modern approach to training.</p></div></div>
+        </section>
+    </main>
+    
+    <footer id="contact">
+		<div class="content-wrap">
+        <h2>Contact Information</h2>
+        <div class="contact-info">
+            <a href="mailto:dianaleighbryan@gmail.com" target="_blank">dianaleighbryan@gmail.com</a>
+            <a href="https://twitter.com/DianaLBryan" target="_blank">Twitter</a>
+            <a href="https://www.linkedin.com/in/diana-bryan-226822187/" target="_blank">LinkedIn</a>
+        </div>
+			<p>Copyright 2019 by Diana Bryan</p></div> 
+	</footer>
+</body>
+</html>
